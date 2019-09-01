@@ -1,0 +1,20 @@
+site_name: Requisitos de Software - Shazam
+repo_name: 'Requisitos2-2019/Shazam'
+repo_url: 'https://github.com/Requisitos2-2019/Shazam'
+site_description: 'Requisitos de Software do aplicativo Shazam'
+
+nav:
+  - Home: 'README.md'
+
+theme:
+  name: 'material'
+  palette:
+    accent: 'indigo'
+    # primary: '#08f'
+  logo: 'assets/img/shazam-logo.png'
+  favicon: 'assets/img/favicon.ico'
+  language: 'pt'
+
+
+extra_css:
+    - css/extra.css

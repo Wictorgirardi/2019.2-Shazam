@@ -1,0 +1,27 @@
+# Shazam
+
+<p align="center">
+    <a href="https://github.com/Requisitos2-2019/Shazam">
+        <img width="250px" src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/shazam-logo.png">
+    </a>
+</p>
+
+## Sobre o Shazam
+
+Shazam é um aplicativo que reconhece música, TV e mídia ao seu redor. É a melhor maneira de descobrir, explorar e compartilhar a música que você ama.
+
+## Equipe
+
+<img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/team/nathalia" width="120px" />
+<img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/team/ernando" width="120px" />
+<img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/team/victor" width="120px" />
+<img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/team/debora" width="120px" />
+<img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/team/gabriel" width="120px" />
+
+|    Nome     |     Matrícula    |    Github   |
+| ----------- | ---------------- | ----------- |
+| Nathalia Lorena Cardoso | 14/0156909 | @Natilorens |
+| Ernando da Silva Braga | 16/0151732 | @ZarathosDeath |
+| Victor Levi Peixoto | 17/0115208 | @VictorLeviPeixoto |
+| Débora Pereira Vilela | 17/0008762 | @deborapvilela |
+| Gabriel Marques Tiveron | 17/0103471 | @GabrielTiveron |
