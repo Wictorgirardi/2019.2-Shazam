@@ -5,6 +5,7 @@ site_description: 'Requisitos de Software do aplicativo Shazam'
 
 nav:
   - Home: 'index.md'
+  - Rich Picture: 'richPictures/index.md'
 
 theme:
   name: 'material'
