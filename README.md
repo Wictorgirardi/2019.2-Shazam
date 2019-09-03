@@ -8,7 +8,7 @@
 Repositório da disciplina Requisitos de Software para o aplicativo Shazam.
 
 
-[Wiki do projeto](https://Requisitos2-2019.github.io/Shazam)
+[Wiki do projeto](https://requisitos2-2019.github.io/2019.2-Shazam/)
 
 
 ## Sobre o projeto
