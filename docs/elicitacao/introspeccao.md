@@ -28,3 +28,10 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 | EP02 - Social | US06 |
 | EP03 - Biblioteca | US07<br>US02 |
 | EP04 - Reconhecimento de mídia | US01 |
+
+
+## Controle de versão
+
+|Data|Versão|Alteração|Responsável(eis)|
+|:--:|:----:|:-------:|:---:|
+| 12/09/2019 | 1.0 | Criação do documento | Ernando e Nathalia | 
