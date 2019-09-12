@@ -37,3 +37,7 @@ O questionário é uma técnica que tem o intuito de compreender os diversos tip
 | Q03 | Portabilidades (Dispositivos móveis, Web App) | Could |
 | Q04 | O sistema deve recomendar músicas | Should |
 | Q05 | O usuário pode escutar o conteúdo que descobriu e receber mais informações sobre o mesmo | Should |
+
+|Data|Versão|Alteração|Responsável(eis)|
+|:--:|:----:|:-------:|:---:|
+| 12/09/2019 | 1.0 | Criação do documento | Ernando, Nathalia e Débora | 
