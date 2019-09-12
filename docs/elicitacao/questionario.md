@@ -30,10 +30,10 @@ O questionário é uma técnica que tem o intuito de compreender os diversos tip
 
 ## Requisitos elicitados
 
-| Requisito | Descrição |
-| --------- | --------- |
-| Q01 | Busca por mídias a partir de trechos capturados pelo aplicativo |
-| Q02 | Atualização constante do banco de dados |
-| Q03 | Portabilidades (Dispositivos móveis, Web App) |
-| Q04 | O sistema deve recomendar músicas |
-| Q05 | O usuário pode escutar o conteúdo que descobriu e receber mais informações sobre o mesmo |
+| Requisito | Descrição | Prioridade |
+| --------- | --------- | ---------- |
+| Q01 | Busca por mídias a partir de trechos capturados pelo aplicativo | Must |
+| Q02 | Atualização constante do banco de dados | Must |
+| Q03 | Portabilidades (Dispositivos móveis, Web App) | Could |
+| Q04 | O sistema deve recomendar músicas | Should |
+| Q05 | O usuário pode escutar o conteúdo que descobriu e receber mais informações sobre o mesmo | Should |
