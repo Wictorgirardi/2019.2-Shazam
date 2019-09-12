@@ -9,6 +9,7 @@ nav:
     - Rich Pictures: 'pre-rastreabilidade/rich-pictures/index.md'
   - Elicitação:
     - Introspecção: 'elicitacao/introspeccao.md'
+    - Análise de Protocolo: 'elicitacao/analise_protocolo.md'
 
 theme:
   name: 'material'
