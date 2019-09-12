@@ -8,6 +8,26 @@ O questionário é uma técnica que tem o intuito de compreender os diversos tip
 
 ## Resultados
 
+<a href="http://i.imgur.com/IXAkjrJ.png">
+  <img src="http://imgur.com/IXAkjrJl.png" />
+</a>
+
+<a href="http://i.imgur.com/AzpYHCj.png">
+  <img src="http://imgur.com/AzpYHCjl.png" />
+</a>
+
+<a href="http://i.imgur.com/yOKnog1.png">
+  <img src="http://imgur.com/yOKnog1l.png" />
+</a>
+
+<a href="http://i.imgur.com/8mw6q9Z.png">
+  <img src="http://imgur.com/8mw6q9Zl.png" />
+</a>
+
+<a href="http://i.imgur.com/QdT8VMH.png">
+  <img src="http://imgur.com/QdT8VMHl.png" />
+</a>
+
 ## Requisitos elicitados
 
 | Requisito | Descrição |
