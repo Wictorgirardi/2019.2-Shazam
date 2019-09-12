@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Requisitos-de-Software/2019.2-Shazam.svg?branch=master)](https://travis-ci.org/Requisitos-de-Software/2019.2-Shazam)
+
 <p align="center">
     <a href="https://github.com/Requisitos2-2019/Shazam">
         <img width="250px" src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/shazam-logo.png">
