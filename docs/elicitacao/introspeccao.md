@@ -18,4 +18,13 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 | US04 | Eu, como usuário, gostaria de poder descobrir novas músicas através do aplicativo |
 | US05 | Eu, como usuário, gostaria de ter bibliotecas de música e serviços de streaming de música conectado ao Shazam, para facilitar minha busca no meu serviço favorito |
 | US06 | Eu, como usuário, gostaria de ter opção de compartilhar minhas descobertas do Shazam em minhas redes sociais |
-| US07 | Eu, como usuário, gostaria de poder fazer cadastro no aplicativo para poder acessar minha biblioteca de qualquer lugar |
+| US07 | Eu, como usuário, gostaria de acessar minha biblioteca de qualquer lugar ou outros dispositivos |
+
+## Épicos
+
+| EP | US's |
+| -- | --------- |
+| EP01 - Descobrir | US03<br>US04<br>US05 |
+| EP02 - Social | US06 |
+| EP03 - Biblioteca | US07<br>US02 |
+| EP04 - Reconhecimento de mídia | US01 |
