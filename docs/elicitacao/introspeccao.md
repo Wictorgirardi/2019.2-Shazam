@@ -34,4 +34,4 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
-| 12/09/2019 | 1.0 | Criação do documento | Ernando e Nathalia | 
+| 12/09/2019 | 1.0 | Criação do documento | Ernando | 
