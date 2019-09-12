@@ -10,6 +10,7 @@ nav:
   - Elicitação:
     - Introspecção: 'elicitacao/introspeccao.md'
     - Análise de Protocolo: 'elicitacao/analise_protocolo.md'
+    - Questionário: 'elicitacao/questionario.md'
 
 theme:
   name: 'material'
