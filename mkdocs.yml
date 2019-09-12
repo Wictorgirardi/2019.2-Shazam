@@ -7,6 +7,8 @@ nav:
   - Home: 'index.md'
   - Pré-Rastreabilidade:
     - Rich Pictures: 'pre-rastreabilidade/rich-pictures/index.md'
+  - Elicitação:
+    - Introspecção: 'elicitacao/introspeccao.md'
 
 theme:
   name: 'material'
