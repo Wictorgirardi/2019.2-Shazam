@@ -23,10 +23,10 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 ## Priorização
 
 | Prioridade | US's |
-| -- | ---- |
-| <span style="color:brown">Must</span> | US03<br>US04<br>US05 |
-| <span style="color:red">Could</span> | US06 |
-| <span style="color:orange">Should</span> | US07<br>US02 |
+|:--:|:----:|
+| <span style="color:brown">Must have</span> | US03<br>US04<br>US05 |
+| <span style="color:red">Could have</span> | US06 |
+| <span style="color:orange">Should have</span> | US07<br>US02 |
 | <span style="color:blue">Would have</span> | US01 |
 
 
