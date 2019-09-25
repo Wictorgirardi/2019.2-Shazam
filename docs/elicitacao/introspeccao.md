@@ -10,24 +10,24 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 
 ## User Stories
 
-| US | Descrição | Prioridade |
-| -- | --------- | ---------- |
-| US01 | Eu, como usuário, gostaria de saber informações sobre alguma mídia a partir de uma gravação usando meu dispositivo | Must |
-| US02 | Eu, como usuário, gostaria de ter uma biblioteca para guardar as mídias que reconheço usando o Shazam | Should |
-| US03 | Eu, como usuário, gostaria de ver as músicas de sucesso em outros países | Could |  
-| US04 | Eu, como usuário, gostaria de poder descobrir novas músicas através do aplicativo | Could |
-| US05 | Eu, como usuário, gostaria de ter bibliotecas de música e serviços de streaming de música conectado ao Shazam, para facilitar minha busca no meu serviço favorito | Should |
-| US06 | Eu, como usuário, gostaria de ter opção de compartilhar minhas descobertas do Shazam em minhas redes sociais | Could |
-| US07 | Eu, como usuário, gostaria de acessar minha biblioteca de qualquer lugar ou outros dispositivos | Should |
+| US | Descrição |
+| -- | --------- |
+| US01 | Eu, como usuário, gostaria de saber informações sobre alguma mídia a partir de uma gravação usando meu dispositivo |
+| US02 | Eu, como usuário, gostaria de ter uma biblioteca para guardar as mídias que reconheço usando o Shazam |
+| US03 | Eu, como usuário, gostaria de ver as músicas de sucesso em outros países |
+| US04 | Eu, como usuário, gostaria de poder descobrir novas músicas através do aplicativo |
+| US05 | Eu, como usuário, gostaria de ter bibliotecas de música e serviços de streaming de música conectado ao Shazam, para facilitar minha busca no meu serviço favorito |
+| US06 | Eu, como usuário, gostaria de ter opção de compartilhar minhas descobertas do Shazam em minhas redes sociais |
+| US07 | Eu, como usuário, gostaria de acessar minha biblioteca de qualquer lugar ou outros dispositivos |
 
-## Épicos relacionados com US's e MoSCoW
+## Priorização
 
-| EP | US's |
+| Prioridade | US's |
 | -- | ---- |
-| EP01 - Descobrir | US03<br>US04<br>US05 |
-| EP02 - Social | US06 |
-| EP03 - Biblioteca | US07<br>US02 |
-| EP04 - Reconhecimento de mídia | US01 |
+| <span style="color:brown">Must</span> | US03<br>US04<br>US05 |
+| <span style="color:red">Could</span> | US06 |
+| <span style="color:orange">Should</span> | US07<br>US02 |
+| <span style="color:blue">Would have</span> | US01 |
 
 
 ## Controle de versão
@@ -35,3 +35,4 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 12/09/2019 | 1.0 | Criação do documento | Ernando e Débora | 
+| 12/09/2019 | 1.0 | Atualização no MoSCoW | Victor Levi | 
