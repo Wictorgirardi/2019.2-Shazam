@@ -1,4 +1,4 @@
-# Brainstorming.md
+# Brainstorming
 
 ## No que consiste o Brainstorming
 
@@ -61,3 +61,4 @@ A equipe se reuniu presencialmente antes da aula de requisitos, e com todos os m
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 24/09/2019 | 1.0 | Criação do documento | Nathalia Lorena |
+| 24/09/2019 | 1.1 | Correção de erros ortográficos | Nathalia Lorena |
