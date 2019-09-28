@@ -14,6 +14,8 @@ nav:
     - Observação: 'elicitacao/observacao.md'
     - Brainstorming: 'elicitacao/brainstorming.md'
   - Modelagem:
+    - Cenários: 'modelagem/cenarios.md'
+    
     
 
 theme:
