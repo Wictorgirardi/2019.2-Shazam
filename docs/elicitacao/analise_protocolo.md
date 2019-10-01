@@ -58,3 +58,10 @@ bem como leitura de QR Code de conteúdos que possuam o ícone do aplicativo..
 |RQ02 |Acesso para download em Android e IOS|
 |RQ03 |Necessidade de internet apenas para finalizar buscas|
 |RQ04 |Curto tempo de busca no banco de dados|
+
+
+## Controle de versão
+
+|Data|Versão|Alteração|Responsável(eis)|
+|:--:|:----:|:-------:|:---:|
+| 12/09/2019 | 1.0 | Criação do documento | Gabriel e Débora |

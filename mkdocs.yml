@@ -11,6 +11,13 @@ nav:
     - Introspecção: 'elicitacao/introspeccao.md'
     - Análise de Protocolo: 'elicitacao/analise_protocolo.md'
     - Questionário: 'elicitacao/questionario.md'
+    - Observação: 'elicitacao/observacao.md'
+    - Brainstorming: 'elicitacao/brainstorming.md'
+  - Modelagem:
+    - Cenários: 'modelagem/cenarios.md'
+    - Léxicos: 'modelagem/lexicos.md'
+    
+    
 
 theme:
   name: 'material'
