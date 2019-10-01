@@ -3,7 +3,7 @@
 ## Introdução
 
 
-Os cenários consistem de uma coleção de narrativas de situações no domínio que favorecem o levantamento de informações em um contexto proposto que permitem a identificação de possíveis tarefas e funcionalidades que se pode realizar em um software, como também identifica problemas e a antecipação das soluções. A técnica de elaborar cenários é uma maneira excelente de representar, para clientes e usuários, os problemas existentes em um software e as possibilidades que podem surgir. Os cenários têm como foco as atividades desempenhadas pelos usuários nas organizações em diferentes contextos possibilitando uma perspectiva mais ampla dos problemas atuais onde o sistema será inserido, explicando porque ele é necessário.
+<p align="justify">Os cenários consistem de uma coleção de narrativas de situações no domínio que favorecem o levantamento de informações em um contexto proposto que permitem a identificação de possíveis tarefas e funcionalidades que se pode realizar em um software, como também identifica problemas e a antecipação das soluções. A técnica de elaborar cenários é uma maneira excelente de representar, para clientes e usuários, os problemas existentes em um software e as possibilidades que podem surgir. Os cenários têm como foco as atividades desempenhadas pelos usuários nas organizações em diferentes contextos possibilitando uma perspectiva mais ampla dos problemas atuais onde o sistema será inserido, explicando porque ele é necessário.</p>
 
 # Cenário 1
 
@@ -253,3 +253,4 @@ Internet cair<br>Conteúdo musical muito distante para ser detectado<br>Aplicati
 | 27/09/2019 | 1.0 | Criação do documento | Nathalia Lorena |
 | 27/09/2019 | 2.0 | Adicionando cenários | Nathalia Lorena |
 | 28/09/2019 | 2.1 | Adicionando cenários | Nathalia Lorena |
+|30/09/2019|2.2|Correção de indentação|Débora|
