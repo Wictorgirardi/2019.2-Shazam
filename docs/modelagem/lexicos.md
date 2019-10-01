@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Percebe-se uma necessidade de identificar e descrever para um contexto social os símbolos peculiares existentes em uma linguagem, para essa finalidade, usa-se o LAL (Léxico Ampliado da Linguagem), e cabe ao engenheiro de requisitos esta identificação.
+<p align="justify">Percebe-se uma necessidade de identificar e descrever para um contexto social os símbolos peculiares existentes em uma linguagem, para essa finalidade, usa-se o LAL (Léxico Ampliado da Linguagem), e cabe ao engenheiro de requisitos esta identificação.</p>
 
 ## Metodologia
 
@@ -33,3 +33,4 @@ Percebe-se uma necessidade de identificar e descrever para um contexto social os
 | 30/09/2019 | 1.1 | Criação de novos léxicos | Ernando |
 | 30/09/2019 | 1.1 | Adição do léxico 'Abrir' | Ernando |
 | 30/09/2019 | 1.2 | Adição do léxico 'Shazam' | Gabriel|
+|30/09/2019|1.3|Correção de indentação|Débora|
