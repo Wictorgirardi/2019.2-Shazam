@@ -2,32 +2,32 @@
 
 ## No que consiste a Observação
 
-A observação é uma técnica de grande utilidade para aquisição de
+<p align="justify">A observação é uma técnica de grande utilidade para aquisição de
 requisitos. Ela possibilita a inserção do desenvolvedor no ambiente de trabalho
 em que o usuário ou grupo de usuários trabalham, o qual observa as tarefas
-executadas pelo usuário, sem interferir no ambiente. 
+executadas pelo usuário, sem interferir no ambiente.</p> 
 
 ## Objetivo
 
-O intuito é obter requisitos
-através da análise das tarefas realizadas pelo usuário. É possível obter uma visão prática e realista da situação de interesse, como também, identificar comunicações informais e maneiras como as pessoas realizam tarefas.
+<p align="justify">O intuito é obter requisitos
+através da análise das tarefas realizadas pelo usuário. É possível obter uma visão prática e realista da situação de interesse, como também, identificar comunicações informais e maneiras como as pessoas realizam tarefas.</p>
 
 ## Como foi realizada a técnica de observação pela equipe
 
-A equipe convidou alguém que nunca havia utilizado o aplicativo antes e o observamos fazendo o uso, fomos anotando as descobertas e tarefas que o novo usuário realizava.
+<p align="justify">A equipe convidou alguém que nunca havia utilizado o aplicativo antes e o observamos fazendo o uso, fomos anotando as descobertas e tarefas que o novo usuário realizava.</p>
 
 ## Anotações feitas durante o uso do aplicativo
 
-O usuário observa a tela de início do Shazam, no entanto não clicou no botão circular.
-Partindo da tela de início o usuário deslizou o dedo no celular da esquerda para a direita e  descobriu que existe uma tela que salva as músicas descobertas, uma "biblioteca".
-O usuário deslizou o botão da direita para a esquerda duas vezes partindo da tela em que se encontra uma biblioteca de músicas salvas e descobre uma tela que possui recomendações de músicas.
-O usuário retorna para a tela de início e tenta pesquisar por uma música, no entanto, ele achou que era necessário clicar no botão e dizer o nome de uma música e artista já conhecidos. 
-O usuário não tinha entendido ainda que o aplicativo reconhece aúdio musical e não seria necessário saber o nome da música ou artista, pois o aplicativo faz isso para o usuário.
-Em seguida, após a tentativa falha, o novo usuário tenta reconhecer um trecho de música clicando no botão
-e teve sucesso.
-Usuário clicou na opção de compartilhar e percebeu diversas opções de compartilhamento.
-O usuário decidiu compartilhar a música que descobriu por e-mail gerando um link.
-Por fim, usuário encerrou o uso do aplicativo e achou bastante interessante a experiência.
+<p align="justify">O usuário observa a tela de início do Shazam, no entanto não clicou no botão circular.
+Partindo da tela de início o usuário deslizou o dedo no celular da esquerda para a direita e  descobriu que existe uma tela que salva as músicas descobertas, uma "biblioteca".</p>
+<p align="justify">O usuário deslizou o botão da direita para a esquerda duas vezes partindo da tela em que se encontra uma biblioteca de músicas salvas e descobre uma tela que possui recomendações de músicas.</p>
+<p align="justify">O usuário retorna para a tela de início e tenta pesquisar por uma música, no entanto, ele achou que era necessário clicar no botão e dizer o nome de uma música e artista já conhecidos. </p>
+<p align="justify">O usuário não tinha entendido ainda que o aplicativo reconhece aúdio musical e não seria necessário saber o nome da música ou artista, pois o aplicativo faz isso para o usuário.</p>
+<p align="justify">Em seguida, após a tentativa falha, o novo usuário tenta reconhecer um trecho de música clicando no botão
+e teve sucesso.</p>
+<p align="justify">Usuário clicou na opção de compartilhar e percebeu diversas opções de compartilhamento.
+O usuário decidiu compartilhar a música que descobriu por e-mail gerando um link.</p>
+<p align="justify">Por fim, usuário encerrou o uso do aplicativo e achou bastante interessante a experiência.</p>
 
 
 
@@ -59,3 +59,4 @@ Por fim, usuário encerrou o uso do aplicativo e achou bastante interessante a e
 |:--:|:----:|:-------:|:---:|
 | 23/09/2019 | 1.0 | Criação do documento | Nathalia Lorena |
 | 23/09/2019 | 1.1 | Correção de erros de ortografia| Nathalia Lorena |
+|30/09/2019|1.2|Correção de indentação do documento|Débora|
