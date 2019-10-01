@@ -13,6 +13,7 @@ nav:
     - Questionário: 'elicitacao/questionario.md'
     - Observação: 'elicitacao/observacao.md'
     - Brainstorming: 'elicitacao/brainstorming.md'
+    - Priorização: 'priorizacao/firstThingFirst.md'
   - Modelagem:
     - Cenários: 'modelagem/cenarios.md'
     - Léxicos: 'modelagem/lexicos.md'
