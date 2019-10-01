@@ -4,6 +4,10 @@
 
 O questionário foi confeccionado visando abranger os pontos de vista de todos os tipos de possíveis usuários (usuários da aplicação, não usuários e antigos usuários) os questionando sobre sugestões de melhorias para aplicações da categoria do Shazam e quais outras aplicações esse usuários conhecem.
 
+<a href="https://imgur.com/76Sq1Am.png">
+  <img src="https://imgur.com/76Sq1Am.png">
+</a>
+
 ## Resultados
 
 <a href="https://imgur.com/B7BYM3H.png">
