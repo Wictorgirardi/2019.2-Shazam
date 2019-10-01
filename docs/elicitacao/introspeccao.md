@@ -2,11 +2,11 @@
 
 ## No que consiste a introspecção
 
-Introspecção é uma técnica rica que consiste em entender quais prioridades o sistema deve possuir para que seja um sucesso. Demanda do Engenheiro de Requisitos imaginar o que ele gostaria, se ele tivesse que desempenhar uma dada tarefa, com os equipamentos disponíveis e demais recursos.
+<p align="justify">Introspecção é uma técnica rica que consiste em entender quais prioridades o sistema deve possuir para que seja um sucesso. Demanda do Engenheiro de Requisitos imaginar o que ele gostaria, se ele tivesse que desempenhar uma dada tarefa, com os equipamentos disponíveis e demais recursos.</p>
 
 ## Objetivo
 
-O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um possível usuário do software gostaria de usá-lo, conseguindo assim levantar requisitos. Os requisitos serão levantados como histórias de usuário.
+<p align="justify">O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um possível usuário do software gostaria de usá-lo, conseguindo assim levantar requisitos. Os requisitos serão levantados como histórias de usuário.</p>
 
 ## User Stories
 
@@ -36,3 +36,4 @@ O principal objetivo é fazer com que o Engenheiro de Requisitos imagine como um
 |:--:|:----:|:-------:|:---:|
 | 12/09/2019 | 1.0 | Criação do documento | Ernando e Débora | 
 | 12/09/2019 | 1.0 | Atualização no MoSCoW | Victor Levi | 
+|30/09/2019|1.1|Correção de indentação|Débora|
