@@ -1,13 +1,16 @@
-# Diagramas de casos de usuário
+# Léxico Ampliado da Linguagem
 
-## Diagrama geral
-![Geral](https://github.com/Requisitos-de-Software/2019.2-Shazam/blob/master/docs/assets/img/DCU/DCU_geral.png)
+## Diagramas de casos de usuário
 
-## Escanear música
-![EscanearMusica](https://github.com/Requisitos-de-Software/2019.2-Shazam/blob/master/docs/assets/img/DCU/DCU_escanear.png)
+### Escanear música
+![Escanear](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_escanear.png)
 
-## Histórico de músicas
-![HistoricoMusica](https://github.com/Requisitos-de-Software/2019.2-Shazam/blob/master/docs/assets/img/DCU/DCU_historico.png)
+### Histórico de músicas
+![Historico](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_historico.png)
 
-## Descobrir músicas novas
-![DescobrirMusica](https://github.com/Requisitos-de-Software/2019.2-Shazam/blob/master/docs/assets/img/DCU/DCU_descobrir.png)
+### Descobrir músicas novas
+![Descobrir](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_descobrir.png)
+
+### Diagrama geral
+![Geral](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_geral.png)
+
