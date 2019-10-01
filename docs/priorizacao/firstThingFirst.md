@@ -20,5 +20,5 @@
 
 
 <p align="center">
-  <img src="docs/imgs/firtsthingfirst.png">
+  <img src="docs/imgs/Firstthingfirst.jpg">
 </p>
