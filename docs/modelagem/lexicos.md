@@ -22,6 +22,7 @@ Percebe-se uma necessidade de identificar e descrever para um contexto social os
 | Top-Trending | Objeto | <ul><li>Visualizar uma lista de músicas mais escutadas no mundo</li><li>Visualizar as mais escutadas em paises e cidades escolhidas pelo usuário</li></ul> | <ul><li>Visualização de tabelas globais ou regionais das músicas mais escutadas</li></ul> | Tops |
 | Descobrir | Verbo | <ul><li>Visualizar novas sugestões de músicas de acordo com as mídias reconhecidas anteriormente</li></ul> | <ul><li>Feed para o usuário, onde são listadas 10 artistas, músicas e álbums com base no gosto do usuário, e no top-trending</li><li>Sugestões de playlists com artistas e músicas parecidas com as mídias identificadas</li></ul> | Feed, Sugestões |
 | Abrir | Verbo | <ul><li>Possível visualização da mídia reconhecida em outros aplicativos de músicas(Spotify, Google Play Music, Apple Music)</li></ul> | <ul><li>Conexão direta com outro aplicativo de de streaming de música da preferência do usuário</li><li>O usuário pode inserir a mídia reconhecida em suas playlists favoritas</li></ul> | - |
+| Shazam | Sujeito | <ul><li>Termo que se refere a ação principal da aplicação. Trata-se da descoberta de novas mídias realizadas pelo aplicativo</li></ul> | <ul><li>Ação principal se refere a sua ação de detecção de novas mídias como "Toque para fazer o Shazam"</li><li>As mídias detectadas por meio da aplicação são listadas com a denominação de "Shazams"</li> | Descoberta
 
 
 ## Versionamento do documento
@@ -31,3 +32,4 @@ Percebe-se uma necessidade de identificar e descrever para um contexto social os
 | 29/09/2019 | 1.0 | Criação do documento | Nathalia Lorena |
 | 30/09/2019 | 1.1 | Criação de novos léxicos | Ernando |
 | 30/09/2019 | 1.1 | Adição do léxico 'Abrir' | Ernando |
+| 30/09/2019 | 1.2 | Adição do léxico 'Shazam' | Gabriel|
