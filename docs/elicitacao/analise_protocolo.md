@@ -65,3 +65,4 @@ bem como leitura de QR Code de conteúdos que possuam o ícone do aplicativo..
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 12/09/2019 | 1.0 | Criação do documento | Gabriel e Débora |
+|30/09/2019|2.0|Atualização geral da Análise de Protocolo|Débora|
