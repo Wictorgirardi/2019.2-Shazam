@@ -1,7 +1,7 @@
 # First Thing First
 
 ## 1. Introdução
-<p align="justify">O First Things First(em português "primeiras coisas primeiro") é uma técnica de priorização de requisitos que equilibra os benefícios de cada função contra seus custos, defini as implicações que serão acarretadas na arquitetura, alinha requisitos e regras de negócio e estabelece risco técnico e demais dificuldades associados a um dado requisito.</p>
+<p align="justify">O First Things First(em português "primeiras coisas primeiro") é uma técnica de priorização de requisitos que equilibra os benefícios de cada função contra seus custos, define as implicações que serão acarretadas na arquitetura, alinha requisitos e regras de negócio e estabelece risco técnico e demais dificuldades associados a um dado requisito.</p>
 
 ## 2. Objetivo
 <p align="justify">O First Things First tem como objetivo produzir uma tabela que prioriza os requisitos sem que haja desbalanceamento por parte apenas do cliente, do desenvolvedor. Ele envolve 3 papeis, o gerente, o representante dos clientes e o representante do desenvolvimento.</p>
@@ -22,3 +22,7 @@
 <p align="center">
   <img src="docs/imgs/Firstthingfirst.jpg">
 </p>
+
+|Data|Versão|Alteração|Responsável(eis)|
+|:--:|:----:|:-------:|:---:|
+| 30/09/2019 | 1.0 | Criação do documento | Débora Vilela |
