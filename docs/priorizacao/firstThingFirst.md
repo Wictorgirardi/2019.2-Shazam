@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="docs/imgs/Firstthingfirst.jpg">
+  <img src="../imgs/Firstthingfirst.jpg">
 </p>
 
 |Data|Versão|Alteração|Responsável(eis)|
