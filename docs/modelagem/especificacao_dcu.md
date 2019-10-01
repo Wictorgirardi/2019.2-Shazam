@@ -1,5 +1,8 @@
 # Especificação dos diagramas de casos de uso
 
+## Introdução
+As especificações de casos de uso tem como objetivo de proporcionar um maior detalhamento sobre os diagramas de casos de uso e de exportar para uma linguagem natural, no nosso caso são 3 especificações, uma para cada diagram em específico, sem contar com o diagrama geral, tendo em vista que o detalhamento do mesmo está dentro dos outros diagramas.
+
 **Escanear música**
 
 |Objetivo  |
