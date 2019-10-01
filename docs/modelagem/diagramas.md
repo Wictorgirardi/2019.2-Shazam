@@ -1,4 +1,4 @@
-# Diagramas de casos de usuário
+# Léxico Ampliado da Linguagem
 
 ## Diagrama geral
 ![Geral](https:///raw.githubusercontent.com/Requisitos-de-Software/2019.2-Shazam/master/docs/assets/img/DCU/DCU_geral.png)
