@@ -2,17 +2,17 @@
 
 ## No que consiste o Brainstorming
 
-Mais do que uma técnica, é uma atividade desenvolvida individualmente ou em grupo que visa explorar toda a capacidade criativa e intelectual. Essa "tempestade de ideias" acontece com objetivos já bem definidos.
-A ideia é dar espaço para a diversidade de pensamentos e experiências e extrair as melhores ideias, buscando a inovação, o diferencial, o surpreendente e o sucesso.O que vier à mente pode ser jogado na mesa. Após as ideias, visões e possibilidades, cabe a equipe encontrar o denominador comum. Ao contrário do que se costuma pensar, o Brainstorming não deve ser realizado como um bate-papo, no qual as ideias simplesmente podem “cair do céu”. É importante ter um ambiente propício para que as contribuições dos participantes aconteçam, sendo melhor executado quando há um roteiro mediado por um coordenador e a divisão do processo entre etapas. Dessa forma, um Brainstorming bem construído é uma técnica útil em agregar conhecimento para os participantes e auxiliar na gestão de problemas.
+<p align="justify">Mais do que uma técnica, é uma atividade desenvolvida individualmente ou em grupo que visa explorar toda a capacidade criativa e intelectual. Essa "tempestade de ideias" acontece com objetivos já bem definidos.
+A ideia é dar espaço para a diversidade de pensamentos e experiências e extrair as melhores ideias, buscando a inovação, o diferencial, o surpreendente e o sucesso.O que vier à mente pode ser jogado na mesa. Após as ideias, visões e possibilidades, cabe a equipe encontrar o denominador comum. Ao contrário do que se costuma pensar, o Brainstorming não deve ser realizado como um bate-papo, no qual as ideias simplesmente podem “cair do céu”. É importante ter um ambiente propício para que as contribuições dos participantes aconteçam, sendo melhor executado quando há um roteiro mediado por um coordenador e a divisão do processo entre etapas. Dessa forma, um Brainstorming bem construído é uma técnica útil em agregar conhecimento para os participantes e auxiliar na gestão de problemas.</p>
 
 
 ## Objetivo
 
-Objetiva a geração de novas ideias, estimulando os participantes a interagir, expor suas ideias e compartilhar opniões.
+<p align="justify">Objetiva a geração de novas ideias, estimulando os participantes a interagir, expor suas ideias e compartilhar opniões.</p>
 
 ## Como foi realizada a técnica de Brainstorming pela equipe
 
-A equipe se reuniu presencialmente antes da aula de requisitos, e com todos os membros presentes começamos a levantar requisitos do aplicativo, tanto os existentes quanto ideias do que poderia ser implementado. Pudemos dizer livremente nossas opniões durante aproximadamente nove minutos gravados pela equipe.
+<p align="justify">A equipe se reuniu presencialmente antes da aula de requisitos, e com todos os membros presentes começamos a levantar requisitos do aplicativo, tanto os existentes quanto ideias do que poderia ser implementado. Pudemos dizer livremente nossas opniões durante aproximadamente nove minutos gravados pela equipe.</p>
 
 
 ## Requisitos levantados
@@ -62,3 +62,4 @@ A equipe se reuniu presencialmente antes da aula de requisitos, e com todos os m
 |:--:|:----:|:-------:|:---:|
 | 24/09/2019 | 1.0 | Criação do documento | Nathalia Lorena |
 | 24/09/2019 | 1.1 | Correção de erros ortográficos | Nathalia Lorena |
+|30/09/2019|1.2|Correção de indentação do documento |Débora|
