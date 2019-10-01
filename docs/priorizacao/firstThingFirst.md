@@ -20,9 +20,11 @@
 
 
 <p align="center">
-  <img src="docs/imgs/Firstthingfirst.jpg">
+  <img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/imgs/Firstthingfirst.jpg">
 </p>
+
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 30/09/2019 | 1.0 | Criação do documento | Débora Vilela |
+| 30/09/2019 | 1.1 | Adicionando imagem do First Thing First |
