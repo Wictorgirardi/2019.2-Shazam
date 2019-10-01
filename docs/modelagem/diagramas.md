@@ -15,5 +15,5 @@
 ![DescobrirMusica](assets/img/DCU/DCU_descobrir.png)
 
 ### Diagrama geral
-![DescobrirMusica](assets/img/DCU/DCU_descobrir.png)
+![DescobrirMusica](https://github.com/Requisitos-de-Software/2019.2-Shazam/blob/master/docs/assets/img/DCU/DCU_descobrir.png)
 
