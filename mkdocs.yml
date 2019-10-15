@@ -10,7 +10,10 @@ nav:
   - Elicitação:
     - Introspecção: 'elicitacao/introspeccao.md'
     - Análise de Protocolo: 'elicitacao/analise_protocolo.md'
-    - Questionário: 'elicitacao/questionario.md'
+    - Questionário:
+      - V0.0: 'elicitacao/questionario/questionario_v0.md'
+      - V0.1: 'elicitacao/questionario/questionario_v1.md'
+      - Resultados: 'elicitacao/questionario/resultados.md'
     - Observação: 'elicitacao/observacao.md'
     - Brainstorming: 'elicitacao/brainstorming.md'
     - Priorização: 'priorizacao/firstThingFirst.md'
@@ -18,6 +21,7 @@ nav:
     - Cenários: 'modelagem/cenarios.md'
     - Léxicos: 'modelagem/lexicos.md'
     - Diagramas de Casos de Uso: 'modelagem/diagramas.md'
+    - Especificações de casos de uso: 'modelagem/especificacao_dcu.md'
     - Backlog do Produto: 'modelagem/backlog.md'
     
     
