@@ -17,7 +17,8 @@ nav:
   - Modelagem:
     - Cenários: 'modelagem/cenarios.md'
     - Léxicos: 'modelagem/lexicos.md'
-    - Diagramas: 'modelagem/diagramas.md'
+    - Diagramas de Casos de Uso: 'modelagem/diagramas.md'
+    - Backlog do Produto: 'modelagem/backlog.md'
     
     
 
