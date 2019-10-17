@@ -31,7 +31,7 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 |4|RNF|Usuário|Mostrar aos meus contatos as músicas que acabei de ouvir|Compartilhar nas redes sociais o que acabei de escanear|Facebook, Instagram, Twitter|Should|To do|
 |4|RNF|Usuário|Adicionar novas músicas aos meus serviços de _streaming_ de música|Ter maior comodidade para ouvir mais vezes essa música||Should|To do|
 |5|RNF|Usuário|Utilizar a aplicação de forma intuitiva|Ter maior controle da aplicação||Should|To do|
-|5|RNF|Usuário|Não necessitar de um conhecimento grande sobre o mundo da música.|Possuir o menor golfo de função possível||Should|To do|
+|5|RNF|Usuário|Não necessitar de um conhecimento grande sobre o mundo da música.|Possuir o menor golfo de execução possível||Should|To do|
 |6|RNF|Usuário|Não necessitar de uma conexão exelente e utilizar poucos dados moveis|Não utilizar uma quantidade exagerada de dados moveis||Should|To do|
 
 ## Controle de versão
