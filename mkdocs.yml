@@ -23,6 +23,7 @@ nav:
     - Diagramas de Casos de Uso: 'modelagem/diagramas.md'
     - Especificações de casos de uso: 'modelagem/especificacao_dcu.md'
     - Backlog do Produto: 'modelagem/backlog.md'
+    - NFR: 'modelagem/NFR.md'
     
     
 
