@@ -31,7 +31,7 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 #### NFR de Portabilidade v1.0
 
-
+![NFRPortabilidade](../imgs/NFR/NFR-portabilidade.png)
 
 ## Controle de Versão
 
@@ -40,3 +40,4 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 |16/10/2019|1.0|Criação do Documento|Gabriel Tiveron|
 |16/10/2019|1.1|Adição do NFR de Usabilidade|Gabriel Tiveron|
 |16/10/2019|1.2|Adição do NFR de Desempenho|Gabriel Tiveron|
+|19/10/2019|1.3|Adição do NFR de Portabilidade|Gabriel Tiveron|
