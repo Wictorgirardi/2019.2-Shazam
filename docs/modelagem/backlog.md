@@ -19,28 +19,31 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 | EP6 | Eu, como usuário, desejo uma aplicacao simples e minimalista |
 | EP7 | Eu, como usuário, desejo utilizar o aplicativo em diversas situações|
 | EP8 | Eu, como usuário, gostaria de uma aba de comunidade para falar sobre novas músicas|
+| EP9 | Eu, como usuário, gostaria de conhecer uma música sem ter que entrar no app|
 
 ## Product Backlog
 
 |ID|Tema|Agente|<div style="width:400px">Objetivo<div/>|<div style="width:200px">Finalidade</div>|Notas|Prioridade|Status|
 |:--:|:----:|:-------:|:---------:|:---------:|:---:|:---:|:-----:|
-|1|RF|Usuário|Fazer um cadastro com e-mail e senha|Possuir um perfil e atualizar o mesmo colocando meus artistas preferidos||Should|To do|
-|1|RF|Usuário|Conectar com minhas contas de aplicativos de _streaming_ de músicas|Conectar com meus apps, adicionando músicas e criando novas _playlists_||Should|To do|
-|1|RF|Usuário|Ter acesso a uma lista de amigos|Conhecer novas pessoas e saber o que meus amigos estão escaneando||Should|To do|
-|2|RF|Usuário|Conhecer uma música que está tocando ao meu redor.|Poder conhecer o artista e o nome da música.||Must|To do|
-|2|RF|Usuário|Conhecer uma música que está tocando numa rádio ou em algum lugar que não posso ver o nome da mesma.|Já poder adicionar a mesma numa playlist.||Sould|To do|
-|3|RNF|Usuário|Rever alguma música que já escutei e escaneei no Shazam.|Rever alguma música.||Should|To do|
-|3|RNF|Usuário|Poder ver playlists baseadas no meu banco de dados.|Conhecer novas músicas baseadas no meu gosto.||Could|To do|
-|3|RNF|Usuário|Ver a lista dos artistas das músicas que escaneei|Ter acesso rápido aos meus artistas preferidos||Should|To do|
-|4|RNF|Usuário|Saber as músicas mais tocadas de um determinado país.|Acompanhar as músicas de outros países.||Could|To do|
-|4|RNF|Usuário|Conhecer os novos lançamentos do mundo da música.|Acompanhar as músicas mais tocadas do mundo.||Could|To do|
-|5|RNF|Usuário|Mostrar aos meus contatos as músicas que acabei de ouvir.|Compartilhar nas redes sociais o que acabei de escanear.|Facebook, Instagram, Twitter.|Should|To do|
+|1|RF|Usuário|Fazer um cadastro com e-mail e senha.|Para salvar meus dados e acessar-los de qualquer dispositivo.||Should|To do|
+|1|RF|Usuário|Conectar com minhas contas de aplicativos de _streaming_ de músicas.|Para sincronizar minhas _Playlists_.||Should|To do|
+|1|RF|Usuário|Ter acesso a uma lista de amigos.|Para ver o que meus amigos estão ouvindo, assim como mostrar o que estou ouvindo.||Should|To do|
+|2|RF|Usuário|Escanear uma música que está tocando ao meu redor.|Para ouvir depois, ou adicionar à alguma _playlist_ minha.||Must|To do|
+|2|RF|Usuário|Escanear uma música que estou ouvindo com meus fones de ouvido.|Para conhecer a letra da música.||Sould|To do|
+|3|RNF|Usuário|Rever alguma música que já escutei e escaneei no Shazam.|Para relembrar minhas últimas músicas escaneadas.||Should|To do|
+|3|RNF|Usuário|Poder ver playlists baseadas no meu banco de dados.|Para conhecer músicas novas baseadas no meu gosto musical.||Could|To do|
+|3|RNF|Usuário|Ver meus artistas favoritos.|Para Conhecer novas músicas dos meus artistas favoritos, assim como lançamentos.||Should|To do|
+|4|RNF|Usuário|Saber as músicas mais tocadas de um determinado país.|Para acompanhar as músicas de outros países.||Could|To do|
+|4|RNF|Usuário|Conhecer os novos lançamentos do mundo da música.|Para acompanhar as músicas mais tocadas do mundo.||Could|To do|
+|5|RNF|Usuário|Mostrar aos meus amigos as músicas que acabei de ouvir.|Para compartilhar nas redes sociais o que acabei de escanear.|Facebook, Instagram, Twitter.|Should|To do|
 |5|RNF|Usuário|Adicionar novas músicas aos meus serviços de _streaming_ de música.|Ter maior comodidade para ouvir mais vezes essa música.||Should|To do|
-|6|RNF|Usuário|Utilizar a aplicação de forma intuitiva.|Ter maior controle da aplicação.||Should|To do|
-|6|RNF|Usuário|Não necessitar de um conhecimento grande sobre o mundo da música.|Possuir o menor golfo de execução possível.||Should|To do|
-|7|RNF|Usuário|Não necessitar de uma conexão exelente e utilizar poucos dados moveis.|Não utilizar uma quantidade exagerada de dados moveis.||Should|To do|
-|8|RNF|Usuário|Conhecer novas músicas e pessoas|Poder encontrar novos artistas dos estilos que gosto por meio de interação humana||Should|To do|
-|8|RNF|Usuário|Compartilhar minhas novas descobertas de forma mais rápida|Mostrar para meus amigos uma nova música diretamente no app||Should|To do|
+|6|RNF|Usuário|Utilizar a aplicação de forma intuitiva.|Para utilizar a aplicação sem problemas.||Should|To do|
+|6|RNF|Usuário|Não necessitar de um conhecimento grande sobre o mundo da música.|Para ter o menor golfo de execução possível.||Should|To do|
+|7|RNF|Usuário|Não gastar todo meu plano de internet.|Para não utilizar uma quantidade exagerada de dados moveis.||Should|To do|
+|8|RNF|Usuário|Conhecer novas músicas e pessoas.|Para poder encontrar novos artistas dos estilos que gosto por meio de interação humana.||Should|To do|
+|8|RNF|Usuário|Dissipar meu conhecimento musical.|Para dar dicas para a maior quantidade de pessoas que ainda não conheço.||Should|To do|
+|9|RNF|Usuário|Não precisar entrar no app para escanear uma música.|Para ter maior facilidade em escanear uma música de um vídeo.||Should|To do|
+|9|RNF|Usuário|Saber a letra de uma música que está tocando em um vídeo.|Para saber a letra de uma música.||Should|To do|
 
 ## Controle de versão
 
@@ -51,3 +54,4 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 | 16/10/2019 | 1.0 | Novo epico com novos backlogs | Victor Levi & Gabriel Tiveron |
 | 16/10/2019 | 1.0 | Atualização no estilo | Victor Levi |
 | 21/10/2019 | 1.0 | Novos backlogs e épicos | Victor Levi |
+| 21/10/2019 | 1.0 | Correções no estilo do backlog | Victor Levi |
