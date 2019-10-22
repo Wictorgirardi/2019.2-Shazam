@@ -21,6 +21,9 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 | EP8 | Eu, como usuário, gostaria de uma aba de comunidade para falar sobre novas músicas|
 | EP9 | Eu, como usuário, gostaria de conhecer uma música sem ter que entrar no app|
 | EP10 | Eu, como usuário, gostaria de alterar a aparência do app|
+| EP11| Eu, como usuário, gostaria de gravar o conteúdo desejado sem necessidade de internet|
+| EP12| Eu, como usuário, gostaria de atualizar minhas playlists com as músicas encontradas no aplicativo|
+| EP13| Eu, como usuário, gostaria de acompanhar a letra da música pelo aplicativo|
 
 
 ## Product Backlog
@@ -48,6 +51,8 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 |9|RNF|Usuário|Saber a letra de uma música que está tocando em um vídeo.|Para saber a letra de uma música.||Should|To do|
 |9|RNF|Usuário|Poder identificar qualquer música ao redor sem entrar no app com a opção auto Shazam ativada.|Para ouvir depois, ou adicionar à alguma _playlist_ minha.||Should|To do|
 |10|RNF|Usuário|Poder escolher um tema claro ou escuro para o app.|Permitir que a aparência do app esteja de acordo com as preferências do usuário.||Should|To do|
+|11|RF|Usuário|Reconhecer mídia através da voz do usuário|Para detectar mídia desejada||Could|To do|
+
 
 ## Controle de versão
 
@@ -60,4 +65,5 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 | 21/10/2019 | 1.4 | Novos backlogs e épicos | Victor Levi |
 | 21/10/2019 | 1.5 | Correções no estilo do backlog | Victor Levi |
 | 21/10/2019 | 1.6 | Adicionando novo épico e backlogs | Nathalia Lorena |
+| 21/10/2019 | 1.1 | Adicionando novo backlog e épicos| Débora Vilela|
 
