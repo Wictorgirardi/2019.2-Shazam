@@ -2,11 +2,11 @@
 
 ## Introdução
 
-<p align="justify">O Presente documento reúne os requisitos não identificados nos demais processos de elicitação e que não foram atendidos pelo contato direto com o aplicativo, mas com a percepção de usuários e membros da equipe.
+<p align="justify">O Presente documento reúne os requisitos não identificados nos demais processos de elicitação e que não foram atendidos pelo contato direto com o aplicativo, mas com a percepção de usuários e membros da equipe.</p>
 
 ## Finalidade
 
-<p align="justify">Esse documento visa descrever requisitos não funcionais do Shazam, ou seja, restrições qualitativas que impactam na usabilidade, no visual, no desempenho, na segurança e outros.Permite uma visão mais ampla sobre os requisitos da aplicação que vão além de funcionalidades, que descrevem necessidades relacionadas à qualidade, estrutura e condições subjetivas.
+<p align="justify">Esse documento visa descrever requisitos não funcionais do Shazam, ou seja, restrições qualitativas que impactam na usabilidade, no visual, no desempenho, na segurança e outros.Permite uma visão mais ampla sobre os requisitos da aplicação que vão além de funcionalidades, que descrevem necessidades relacionadas à qualidade, estrutura e condições subjetivas.</p>
 
 ## Escopo
 
@@ -29,7 +29,7 @@
 ## Usabilidade
 
 <p align="justify">Os usuários devem poder aprender a mexer no sistema de forma intuitiva através do uso. Dessa forma, o treinamento necessário para fazer uma utilização correta do sistema deverá ser rápido, com aprendizado máximo de 30 minutos - considerando que um usuário não gasta muito tempo de uma vez só no sistema. Já para um usuário que deseja ter conhecimento profundo do sistema (usuário avançado) pode levar um período de tempo maior através de aprendizagem orgânica, ou seja, utilizando a aplicação.</p>
- <p align="justify">Uma observação pertinente é que para fazer bom uso do sistema o usuário deve ser capaz de utilizar seu dispositivo físico de acesso (celular smartphone) e também o sistema operacional instalado no dispositivo (Android ou iOS).</p>
+<p align="justify">Uma observação pertinente é que para fazer bom uso do sistema o usuário deve ser capaz de utilizar seu dispositivo físico de acesso (celular smartphone) e também o sistema operacional instalado no dispositivo (Android ou iOS).</p>
 
 ### Requisito de Usabilidade 
 <p align="justify">A aplicação deve utilizar padrões visuais de informação condizentes com a plataforma em que se encontra.</p>
