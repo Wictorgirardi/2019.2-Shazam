@@ -28,7 +28,7 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 ##### V1.1
 
-![NFRDesempenho1.1](../imgs/NFR/NFR-confiabilidade.png)
+![NFRDesempenho1.1](../imgs/NFR/NFR-desempenho.png)
 
 #### NFR de Usabilidade 
 ##### V1.0
