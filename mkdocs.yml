@@ -22,6 +22,7 @@ nav:
     - Léxicos: 'modelagem/lexicos.md'
     - Diagramas de Casos de Uso: 'modelagem/diagramas.md'
     - Especificações de casos de uso: 'modelagem/especificacao_dcu.md'
+    - Especificação Suplementar: 'modelagem/especificacaoSuplementar.md'
     - Backlog do Produto: 'modelagem/backlog.md'
     - NFR: 'modelagem/NFR.md'
     
