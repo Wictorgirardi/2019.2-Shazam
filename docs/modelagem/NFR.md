@@ -30,9 +30,14 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 ![NFRDesempenho1.1](../imgs/NFR/NFR-confiabilidade.png)
 
-#### NFR de Usabilidade v1.0
+#### NFR de Usabilidade 
+##### V1.0
 
 ![NFRUsabilidade](https://imgur.com/L1rOFOc.png)
+
+##### V1.1
+
+![NFRUsabilidade1.1](../imgs/NFR/NFR-usabilidade.png)
 
 #### NFR de Portabilidade v1.0
 
