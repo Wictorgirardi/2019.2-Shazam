@@ -24,7 +24,6 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 ![NFRGeral1.0](../imgs/NFR/NFR-Geral.png)
 
-### Desempenho
 
 #### NFR de Desempenho
 ##### V1.0
@@ -54,6 +53,11 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 ![NFRConfiabilidade](../imgs/NFR/NFR-confiabilidade.png)
 
+#### NFR de Segurança 
+##### V1.0
+
+![NFRSeguranca1.0](../imgs/NFR/NFR-Seguranca.png)
+
 ## Controle de Versão
 
 |Data | Versão | Alteração | Responsável(eis)|
@@ -65,3 +69,4 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 |21/10/2019|1.4|Adição da versão 1.1 do NFR de Desempenho| Gabriel Tiveron|
 |21/10/2019|1.5|Adição da versão 1.1 do NFR de Usabilidade| Gabriel Tiveron|
 |21/10/2019|1.6|Adição da versão 1.0 do NFR Geral| Gabriel Tiveron|
+|21/10/2019|1.7|Adição do NFR de Segurança| Gabriel Tiveron|
