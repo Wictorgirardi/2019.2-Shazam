@@ -45,7 +45,7 @@
 <p align="justify">No caso de uma sessão de usuário expirar, qualquer tarefa que exija futuras informações dependentes terá o acesso bloqueado, para que o os dados do usuário em sua sessão não fique exposto a um acesso de terceiros.</p>
 
 ### Requisito de Confiabilidade Quatro
-<p align="justify">O software deve procurar deixar o usuário ciente do que ocorre no sistema, assim como as falhas que possam ocorrer durante o uso. Esse feedback deve informar o motivo da falha e possíveis soluções que o próprio usuário possa executar.<p> 
+<p align="justify">O software deve procurar deixar o usuário ciente do que ocorre no sistema, assim como as falhas que possam ocorrer durante o uso. Esse feedback deve informar o motivo da falha e possíveis soluções que o próprio usuário possa executar.<p/> 
 <p align="justify">Caso a correção não esteja ao alcance das ações do usuário ou não possa ser informado, o suporte deve ser imediatamente informado.</p>
 
 ## Desempenho
@@ -58,16 +58,12 @@
 <p align="justify">A aplicação deve ser capaz de responder rapidamente a uma ação de cada usuário do Shazam, de forma simultânea.</p>
 
 ## Suportabilidade
-
 <p align="justify">O sistema deve estar disponível para mobile, tanto nos dispositivos Android como IOS.</p>
 
 ## Restrições de Design
-
-<p align="justify">Esta seção reúne as decisões quanto ao design estabelecido e aplicado no Shazam, refletindo o padrão adotado para o uso em 
-diferentes plataformas e a adaptação às alterações conforme o formato de exibição de informações, caracterizando a forma de utilização e o grau de contato entre o usuário e o aplicativo.</p>
+<p align="justify">Esta seção reúne as decisões quanto ao design estabelecido e aplicado no Shazam, refletindo o padrão adotado para o uso em diferentes plataformas e a adaptação às alterações conforme o formato de exibição de informações, caracterizando a forma de utilização e o grau de contato entre o usuário e o aplicativo.</p>
 
 ### Restrição de Design Um
-
 <p align="justify">A aplicação deverá ter o suporte a diversas línguas, definido através do idioma estabelecido no dispositivo do usuário.</p>
 
 ## Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
