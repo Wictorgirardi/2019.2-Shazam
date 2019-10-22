@@ -20,6 +20,8 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 | EP7 | Eu, como usuário, desejo utilizar o aplicativo em diversas situações|
 | EP8 | Eu, como usuário, gostaria de uma aba de comunidade para falar sobre novas músicas|
 | EP9 | Eu, como usuário, gostaria de conhecer uma música sem ter que entrar no app|
+| EP10 | Eu, como usuário, gostaria de alterar a aparência do app|
+
 
 ## Product Backlog
 
@@ -29,7 +31,7 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 |1|RF|Usuário|Conectar com minhas contas de aplicativos de _streaming_ de músicas.|Para sincronizar minhas _Playlists_.||Should|To do|
 |1|RF|Usuário|Ter acesso a uma lista de amigos.|Para ver o que meus amigos estão ouvindo, assim como mostrar o que estou ouvindo.||Should|To do|
 |2|RF|Usuário|Escanear uma música que está tocando ao meu redor.|Para ouvir depois, ou adicionar à alguma _playlist_ minha.||Must|To do|
-|2|RF|Usuário|Escanear uma música que estou ouvindo com meus fones de ouvido.|Para conhecer a letra da música.||Sould|To do|
+|2|RF|Usuário|Escanear uma música que estou ouvindo com meus fones de ouvido.|Para conhecer a letra da música.||Should|To do|
 |3|RNF|Usuário|Rever alguma música que já escutei e escaneei no Shazam.|Para relembrar minhas últimas músicas escaneadas.||Should|To do|
 |3|RNF|Usuário|Poder ver playlists baseadas no meu banco de dados.|Para conhecer músicas novas baseadas no meu gosto musical.||Could|To do|
 |3|RNF|Usuário|Ver meus artistas favoritos.|Para Conhecer novas músicas dos meus artistas favoritos, assim como lançamentos.||Should|To do|
@@ -44,14 +46,18 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 |8|RNF|Usuário|Dissipar meu conhecimento musical.|Para dar dicas para a maior quantidade de pessoas que ainda não conheço.||Should|To do|
 |9|RNF|Usuário|Não precisar entrar no app para escanear uma música.|Para ter maior facilidade em escanear uma música de um vídeo.||Should|To do|
 |9|RNF|Usuário|Saber a letra de uma música que está tocando em um vídeo.|Para saber a letra de uma música.||Should|To do|
+|9|RNF|Usuário|Poder identificar qualquer música ao redor sem entrar no app com a opção auto Shazam ativada.|Para ouvir depois, ou adicionar à alguma _playlist_ minha.||Should|To do|
+|10|RNF|Usuário|Poder escolher um tema claro ou escuro para o app.|Permitir que a aparência do app esteja de acordo com as preferências do usuário.||Should|To do|
 
 ## Controle de versão
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 15/10/2019 | 1.0 | Criação do documento | Nathalia Lorena |
-| 15/10/2019 | 1.0 | Primeira versão dos épicos e do product backlog | Victor Levi |
-| 16/10/2019 | 1.0 | Novo epico com novos backlogs | Victor Levi & Gabriel Tiveron |
-| 16/10/2019 | 1.0 | Atualização no estilo | Victor Levi |
-| 21/10/2019 | 1.0 | Novos backlogs e épicos | Victor Levi |
-| 21/10/2019 | 1.0 | Correções no estilo do backlog | Victor Levi |
+| 15/10/2019 | 1.1 | Primeira versão dos épicos e do product backlog | Victor Levi |
+| 16/10/2019 | 1.2 | Novo épico com novos backlogs | Victor Levi & Gabriel Tiveron |
+| 16/10/2019 | 1.3 | Atualização no estilo | Victor Levi |
+| 21/10/2019 | 1.4 | Novos backlogs e épicos | Victor Levi |
+| 21/10/2019 | 1.5 | Correções no estilo do backlog | Victor Levi |
+| 21/10/2019 | 1.6 | Adicionando novo épico e backlogs | Nathalia Lorena |
+
