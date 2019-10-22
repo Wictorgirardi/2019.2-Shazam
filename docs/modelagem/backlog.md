@@ -50,8 +50,8 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 15/10/2019 | 1.0 | Criação do documento | Nathalia Lorena |
-| 15/10/2019 | 1.0 | Primeira versão dos épicos e do product backlog | Victor Levi |
-| 16/10/2019 | 1.0 | Novo epico com novos backlogs | Victor Levi & Gabriel Tiveron |
-| 16/10/2019 | 1.0 | Atualização no estilo | Victor Levi |
-| 21/10/2019 | 1.0 | Novos backlogs e épicos | Victor Levi |
-| 21/10/2019 | 1.0 | Correções no estilo do backlog | Victor Levi |
+| 15/10/2019 | 1.1 | Primeira versão dos épicos e do product backlog | Victor Levi |
+| 16/10/2019 | 1.2 | Novo epico com novos backlogs | Victor Levi & Gabriel Tiveron |
+| 16/10/2019 | 1.3 | Atualização no estilo | Victor Levi |
+| 21/10/2019 | 1.4 | Novos backlogs e épicos | Victor Levi |
+| 21/10/2019 | 1.5 | Correções no estilo do backlog | Victor Levi |
