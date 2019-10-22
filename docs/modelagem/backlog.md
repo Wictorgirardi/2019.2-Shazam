@@ -65,5 +65,5 @@ Este documento busca apresentar o product backlog do aplicativo Shazam utilizand
 | 21/10/2019 | 1.4 | Novos backlogs e épicos | Victor Levi |
 | 21/10/2019 | 1.5 | Correções no estilo do backlog | Victor Levi |
 | 21/10/2019 | 1.6 | Adicionando novo épico e backlogs | Nathalia Lorena |
-| 21/10/2019 | 1.1 | Adicionando novo backlog e épicos| Débora Vilela|
+| 21/10/2019 | 1.7 | Adicionando novo backlog e épicos| Débora Vilela|
 
