@@ -29,7 +29,7 @@
 ### Resultados
 
 |Rich Picture|Atente as questões|Atende parcialmente|Não atende as questões|Motivo|
-|:--:|:----:|:---:| :---:|
+|:--:|:----:|:---:|:---:|:--:|
 |1.0|4,6,8|1,2,5|3,7|Não atende o critério 3, embora tenha duas versões, pois não foi registrado quem fez cada versão e não atendo critério 7 pois nenhum dos documentos do projeto foi rastreado até o presente momento.|
 |2.0|2,4,5,6,8|1|3,7|Não atende o critério 3, embora tenha duas versões, pois não foi registrado quem fez cada versão e não atendo critério 7 pois nenhum dos documentos do projeto foi rastreado até o presente momento.|
 
