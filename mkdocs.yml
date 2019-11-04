@@ -25,6 +25,8 @@ nav:
     - Especificação Suplementar: 'modelagem/especificacaoSuplementar.md'
     - Backlog do Produto: 'modelagem/backlog.md'
     - NFR: 'modelagem/NFR.md'
+  - Análise: 
+    - Diagramas de Casos de Uso: 'analise/diagramas_casos_uso.md'
     
     
 
