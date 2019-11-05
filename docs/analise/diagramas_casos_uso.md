@@ -38,21 +38,21 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 |**7** |Possui ator principal?|Sim | Alto | - |
 |**8** |O ator principal está representado corretamente? |Sim | Alto | - |
 |**9** |O nome do ator principal condiz com seu papel? |Sim | Alto | - |
-|**10** |Possui descrição dos atores? |Não | Moderado | - |
-|**11** |Possui descrição dos Casos de Uso? |Não | Alto | - |
+|**10** |Possui descrição dos atores? |Não | Moderado | Acrescentar descrição dos atores |
+|**11** |Possui descrição dos Casos de Uso? |Não | Alto | Acrescentar descrição de cada caso |
 |**12** |Possui fluxo principal? |Sim | Alto | - |
 |**13** |O fluxo principal segue a ordem correta para a realização da tarefa? |Sim | Alto | - |
 |**14** |Ao seguir o fluxo principal a tarefa é concluída com sucesso? |Sim | Alto | - |
 |**15** |Possui fluxo alternativo? |Sim | Alto | - |
 |**16** |Os fluxos alternativos são corretamente representados? |Sim | Alto | - |
 |**17** |Os fluxos alternativos permitem a realização da tarefa destino? |Não | Alto | - |
-|**18** |Possui fluxos de exceção? |Sim | Alto | - |
+|**18** |Possui fluxos de exceção? |Sim | Alto | Acrescentar fluxos de exceção|
 |**19** |Os fluxos de exceção são corretamente descritos? |Sim | Alto | - |
 |**20** |Os fluxos de exceção são representados corretamente no fluxo principal?|Não | Alto | - |
-|**21** |Possui pós-condição?|Não | Moderado | - |
+|**21** |Possui pós-condição?|Não | Moderado | Adicionar pós-condição |
 |**22** |A pós-condição está coerente?|Não | Moderado | - |
-|**23** |Os nomes dos casos de uso possuem rastreabilidade?|Não| Alto | - |
-|**24** |Todos os casos de uso necessários para realizar todas as tarefas no app foram abordados?|Não| Alto | - |
+|**23** |Os nomes dos casos de uso possuem rastreabilidade?|Não| Alto | Adicionar rastro |
+|**24** |Todos os casos de uso necessários para realizar todas as tarefas no app foram abordados?|Não| Alto | Refatorar o documento de Casos de Uso |
 
 
 
@@ -72,10 +72,10 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 |**9** |Possui extends? |Sim | Alto | - |
 |**10** |Os extends estão corretos? |Sim | Alto | - |
 |**11** |O diagrama possui exceções? |Sim | Alto | - |
-|**12** |Os casos de uso representam uma ação? |Sim | Alto | - |
+|**12** |Todos os casos de uso representam uma ação? |Não | Alto | Alterar os títulos para que todos sejam ações |
 |**13** |Todas as expressões específicas nos casos de uso estão presentes nos léxicos? |Não | Moderado | - |
-|**14** |Os nomes dos Diagramas de casos de uso possuem rastreabilidade?|Não| Alto | - |
-|**15** |Foram diagramados todos os casos de uso necessários para realizar todas as tarefas do app?|Não| Alto | - |
+|**14** |Os nomes dos Diagramas de casos de uso possuem rastreabilidade?|Não| Alto | Adicionar rastro |
+|**15** |Foram diagramados todos os casos de uso necessários para realizar todas as tarefas do app?|Não| Alto | Refatorar os Casos de Uso |
 
 
 
