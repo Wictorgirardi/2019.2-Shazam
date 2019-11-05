@@ -26,6 +26,7 @@ nav:
     - Backlog do Produto: 'modelagem/backlog.md'
     - NFR: 'modelagem/NFR.md'
   - Análise: 
+    - NFR: 'analise/NFR.md'
     - Diagramas de Casos de Uso: 'analise/diagramas_casos_uso.md'
     - Rich Pictures: 'analise/rich_pictures.md'
     
