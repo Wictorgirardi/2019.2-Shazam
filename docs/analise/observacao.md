@@ -63,7 +63,7 @@ Para a inspeção da e será utilizada uma metodologia em que cada requisito lev
 |**RQ04** | O requisito é de fácil compreensão? | Sim | Médio | - |
 |**RQ04** | O MoSCoW é suficiente para priorizar o requisito? | Sim | Médio | - |
 
-### Critério de Qualidade
+### Resumo técnico
 
 Refatorar os requisitos levantado a partir da <b>Observação</b>, a partir do checklist feito a cima. 
 
@@ -71,18 +71,9 @@ Refatorar os requisitos levantado a partir da <b>Observação</b>, a partir do c
 - Quantidade de discrepâncias encontradas(por pergunta): 16
 - Porcentagem de requisitos defeituosos: 8 (100%)
 
-Todos os requisitos possuem no mínimo dois problemas em relação a falta de documentação ou informações(Rastreabilidade e priorização), isso classifica o documento como de Baixa qualidade.
-
-
-## Correção
-
-|Responsável|Versão|
-|:--:|:----:|
-
 ## Controle de versão
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 04/11/2019 | 1.0 | Criação do documento | Ernando Braga |
 | 04/11/2019 | 1.1 | Adição do Checklist | Ernando Braga |
-| 04/11/2019 | 1.2 | Adição do Critério de Qualidade | Ernando Braga |

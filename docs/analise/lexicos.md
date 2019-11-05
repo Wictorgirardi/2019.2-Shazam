@@ -85,4 +85,4 @@ Foram levantadas questões as quais expressam a finalidade e a execução de cad
 
 ## Referências
 
-*
+* SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
