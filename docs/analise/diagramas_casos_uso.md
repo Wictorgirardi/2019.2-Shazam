@@ -79,14 +79,20 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 
 
 
+### Visualização dos resultados
+
+![Graphyn](../imgs/graph/dcu_yn.png)
+
+![Graphbma](../imgs/graph/dcu_bma.png)
 
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 03/11/2019 | 1.0 | Criação do documento | Nathalia Lorena |
-| 03/10/2019 | 1.1 | Adição de Introdução | Nathalia Lorena |
-| 03/10/2019 | 1.2 | Adição de Objetivos | Nathalia Lorena |
-| 03/10/2019 | 1.3 | Adição de Metodologia| Nathalia Lorena |
-| 03/10/2019 | 1.4 | Adição de Checklist Especificação de Casos de Uso |Nathalia Lorena|
-| 04/10/2019 | 1.5| Adição de Checklist Diagramas de Casos de Uso |Nathalia Lorena|
+| 03/11/2019 | 1.1 | Adição de Introdução | Nathalia Lorena |
+| 03/11/2019 | 1.2 | Adição de Objetivos | Nathalia Lorena |
+| 03/11/2019 | 1.3 | Adição de Metodologia| Nathalia Lorena |
+| 03/11/2019 | 1.4 | Adição de Checklist Especificação de Casos de Uso |Nathalia Lorena|
+| 04/11/2019 | 1.5 | Adição de Checklist Diagramas de Casos de Uso |Nathalia Lorena|
+| 05/11/2019 | 1.6 | Adição de Gráficos para melhor visualização | Gabriel Tiveron |
 

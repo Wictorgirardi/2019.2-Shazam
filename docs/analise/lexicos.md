@@ -48,6 +48,12 @@ Foram levantadas questões as quais expressam a finalidade e a execução de cad
 |Os léxicos estão identificados por uma nomenclatura padrão ou enumerados? |||Nenhum dos léxicos atende|Alto|Foram identificados apenas pelo sujeito|
 |O léxico possui sinônimo?|Todos os léxicos atendem|||Alto||
 
+#### Visualização de Resultados
+
+![Graphyn](../imgs/graph/lexico_yn.png)
+
+![Graphbma](../imgs/graph/lexico_bma.png)
+
 ### Critério de qualidade
 
 1 item reprovado - Qualidade Alta
@@ -82,6 +88,7 @@ Foram levantadas questões as quais expressam a finalidade e a execução de cad
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 |04/11/2019|1.0|Criação do documento|Débora Vilela| 
+|05/11/2019|1.1|Adição de Gráficos para melhor visualização| Gabriel Tiveron |
 
 ## Referências
 

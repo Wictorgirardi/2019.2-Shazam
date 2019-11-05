@@ -40,6 +40,12 @@
 |Todos os membros tiveram  igual participação na construção de ideias do brainstorming|X||||
 |Alguma ideia foi descartada durante a realização do Bainstorming?|X||||
 
+#### Visualização dos resultados
+
+![Graphyn](../imgs/graph/brainstorming_yn.png)
+
+![Graphbma](../imgs/graph/brainstorming_bma.png)
+
 
 ### Critério de qualidade
 
@@ -59,7 +65,8 @@ Apenas 1(um) item foi reprovado em relação à falta de informações no docume
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
-|04/11/2019|1.0|Criação do documento|Débora Vilela| 
+|04/11/2019|1.0|Criação do documento|Débora Vilela|
+|05/11/2019|1.1|Adição de gráficos para melhor visualização| Gabriel Tiveron| 
 
 ## Referências
 

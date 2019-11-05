@@ -63,6 +63,14 @@ Para a inspeção da e será utilizada uma metodologia em que cada requisito lev
 |**RQ04** | O requisito é de fácil compreensão? | Sim | Médio | - |
 |**RQ04** | O MoSCoW é suficiente para priorizar o requisito? | Sim | Médio | - |
 
+
+#### Visualização de Resultados
+
+![Graphyn](../imgs/graph/obs_yn.png)
+
+![Graphbma](../imgs/graph/obs_bma.png)
+
+
 ### Resumo técnico
 
 Refatorar os requisitos levantado a partir da <b>Observação</b>, a partir do checklist feito a cima. 
@@ -77,3 +85,4 @@ Refatorar os requisitos levantado a partir da <b>Observação</b>, a partir do c
 |:--:|:----:|:-------:|:---:|
 | 04/11/2019 | 1.0 | Criação do documento | Ernando Braga |
 | 04/11/2019 | 1.1 | Adição do Checklist | Ernando Braga |
+| 05/11/2019 | 1.2 | Adição de Gráficos para melhor visualização | Gabriel Tiveron |

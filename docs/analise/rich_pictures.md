@@ -33,6 +33,12 @@
 |1.0|4,6,8|1,2,5|3,7|Não atende o critério 3, embora tenha duas versões, pois não foi registrado quem fez cada versão e não atendo critério 7 pois nenhum dos documentos do projeto foi rastreado até o presente momento.|
 |2.0|2,4,5,6,8|1|3,7|Não atende o critério 3, embora tenha duas versões, pois não foi registrado quem fez cada versão e não atendo critério 7 pois nenhum dos documentos do projeto foi rastreado até o presente momento.|
 
+#### Visualização dos Resultados
+
+![Graphyn](../imgs/graph/rich_picture_yn.png)
+
+![Graphbma](../imgs/graph/rich_picture_bma.png)
+
 ### Critério de qualidade
 
 1 item reprovado - Qualidade Alta
@@ -59,6 +65,7 @@
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 |04/11/2019|1.0|Criação do documento|Débora Vilela| 
+|05/11/2019|1.1|Adição de Gráficos para melhor visualização| Gabriel Tiveron|
 
 ## Referências
 
