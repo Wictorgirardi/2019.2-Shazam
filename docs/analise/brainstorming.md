@@ -53,7 +53,7 @@ Apenas 1(um) item foi reprovado em relação à falta de informações no docume
 ## Correção
 
 |Responsável|Versão|
-|:--:|:----:|:---:|
+|:--:|:----:|
 
 ## Versionamento
 
