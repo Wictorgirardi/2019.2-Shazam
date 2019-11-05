@@ -67,5 +67,5 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 | 03/10/2019 | 1.1 | Adição de Introdução | Nathalia Lorena |
 | 03/10/2019 | 1.2 | Adição de Objetivos | Nathalia Lorena |
 | 03/10/2019 | 1.3 | Adição de Metodologia| Nathalia Lorena |
-| 03/10/2019 | 1.4 | Adição de Checklist Especificação de Casos de Uso |
+| 03/10/2019 | 1.4 | Adição de Checklist Especificação de Casos de Uso |Nathalia Lorena|
 
