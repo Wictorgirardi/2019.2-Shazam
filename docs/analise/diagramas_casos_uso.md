@@ -14,8 +14,8 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 
 ## Verificação dos artefatos
 
-1.  [Especificação Casos de Uso](../modelagem/especificacao_dcu.md)
-2.  [Diagramas Casos de Uso](../modelagem/diagramas.md)
+*  [Especificação Casos de Uso](../modelagem/especificacao_dcu.md)
+*  [Diagramas Casos de Uso](../modelagem/diagramas.md)
 
 
 ## Checklist Casos de Uso
@@ -26,7 +26,7 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 
 
 
-|Item| Perguntas para inspeção|Respostas|Impacto|Modificações|
+|Item|Questões |Respostas|Impacto|Modificações|
 |:--:|:----:|:-------:|:---:|:---|
 |**1** |O título é de fácil compreensão? |Sim | Alto | - |
 |**2** |O título condiz com o objetivo do Caso de Uso? |Sim | Alto | - |
@@ -48,8 +48,8 @@ Para a inspeção dos casos de uso será utilizada uma metodologia em que cada c
 |**18** |Possui fluxos de exceção? |Sim | Alto | - |
 |**19** |Os fluxos de exceção são corretamente descritos? |Sim | Alto | - |
 |**20** |Os fluxos de exceção são representados corretamente no fluxo principal?|Não | Alto | - |
-|**21** |Possui pós-condição?|Não | Médio | - |
-|**22** |A pós-condição está coerente?|Não | Médio | - |
+|**21** |Possui pós-condição?|Não | Moderado | - |
+|**22** |A pós-condição está coerente?|Não | Moderado | - |
 |**23** |Os nomes dos casos de uso possuem rastreabilidade?|Não| Alto | - |
 
 

@@ -9,13 +9,13 @@
 
 ## Visão geral
 <p align="justify">Para a verificação das versões do Rich Picture foi utilizado o método de checklist de forma a agilizar a verificação e permitir que os erros e acertos na elaboração do documento sejam de fácil entendimento e perceptividade.</p>
-<p align="justify">O mé todo de checklist funciona desta forma: </p>
+<p align="justify">O método de checklist funciona desta forma: </p>
 
 ## Etapas da verificação
 
 ### Checklist
 
-|Nº|Questão|Impacto|
+|Item|Questão|Impacto|
 |:--:|:----:|:---:|
 |1|Possui título?|Moderado|
 |2|Possui qualidade para visualização?|Alto|
@@ -51,7 +51,7 @@
 
 ## Acompanhamento
 
-|Nº|Questão|Impacto|
+|Item|Questão|Impacto|
 |:--:|:----:|:---:|
 
 ## Versionamento
