@@ -1,5 +1,5 @@
 # Introdução
-Este documento tem como motivo principal organizar e planejar como irá ser feita a reestruturação da documentação do NFR (Non Functional Requiriments).
+Este documento tem como motivo principal organizar e planejar como irá ser feita a reestruturação da documentação do [NFR](https://requisitos-de-software.github.io/2019.2-Shazam/modelagem/NFR/) (Non Functional Requirements).
 
 # Metodologia
 
