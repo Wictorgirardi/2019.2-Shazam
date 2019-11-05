@@ -33,7 +33,7 @@ nav:
     - Léxicos: 'analise/lexicos.md'
     - Brainstorming: 'analise/brainstorming.md'
     - Validação: 'analise/email_suporte.md'  
-    - Backlog: 'backlog.md'
+    - Backlog: 'analise/backlog.md'
     
 
 theme:
