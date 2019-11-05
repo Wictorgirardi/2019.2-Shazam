@@ -99,12 +99,6 @@ Refatorar os requisitos listados no backlog, a partir do checklist feito a cima.
 
 Todos os requisitos do backlog estão com falta em rastreabilidade, o que torna leva o documento a ter uma qualidade Mediana, todavia está bem relacionado com seus épicos e com a realidade do usuário.
 
-
-## Correção
-
-|Responsável|Versão|
-|:--:|:----:|
-
 ## Controle de versão
 
 |Data|Versão|Alteração|Responsável(eis)|
