@@ -1,15 +1,15 @@
 # Diagramas de casos de usuário
 
-## Escanear música
+## [Escanear música](https://requisitos-de-software.github.io/2019.2-Shazam/modelagem/lexicos/#lexicos)
 ![Escanear](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_escanear.png)
 
-## Histórico de músicas
+## [Histórico de músicas](https://requisitos-de-software.github.io/2019.2-Shazam/modelagem/lexicos/#lexicos)
 ![Historico](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_historico.png)
 
-## Descobrir músicas novas
+## [Descobrir músicas novas](https://requisitos-de-software.github.io/2019.2-Shazam/modelagem/lexicos/#lexicos)
 ![Descobrir](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_descobrir.png)
 
-## Diagrama geral
+## [Diagrama geral](https://requisitos-de-software.github.io/2019.2-Shazam/modelagem/lexicos/#lexicos)
 ![Geral](https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/assets/img/DCU/DCU_geral.png)
 
 |Data|Versão|Alteração|Responsável(eis)|
