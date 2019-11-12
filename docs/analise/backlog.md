@@ -89,6 +89,12 @@ Para a inspeção da e será utilizada uma metodologia em que cada requisito lev
 |**22**| Os links estão redirecionados para o rastro corretamente? | Não | Alto | Inserir rastreabilidade |
 |**22**| O ID do Épico é condizente com o requisito? | Sim | Alto | - |
 
+#### Visualização dos Resultados
+
+![Graphyn](../imgs/graph/backlog_yn.png)
+
+![Graphbma](../imgs/graph/backlog_bma.png)
+
 ### Critério de Qualidade
 
 Refatorar os requisitos listados no backlog, a partir do checklist feito a cima. 
@@ -104,3 +110,4 @@ Todos os requisitos do backlog estão com falta em rastreabilidade, o que torna 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 04/11/2019 | 1.0 | Criação do documento | Ernando Braga |
+| 05/11/2019 | 1.1 | Adição de Gráfico para melhor visualização| Gabriel Tiveron |

@@ -63,7 +63,6 @@ Para a inspeção da e será utilizada uma metodologia em que cada requisito lev
 |**RQ04** | O requisito é de fácil compreensão? | Sim | Médio | - |
 |**RQ04** | O MoSCoW é suficiente para priorizar o requisito? | Sim | Médio | - |
 
-
 #### Visualização de Resultados
 
 ![Graphyn](../imgs/graph/obs_yn.png)

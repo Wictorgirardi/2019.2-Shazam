@@ -44,8 +44,6 @@
 
 ![Graphyn](../imgs/graph/brainstorming_yn.png)
 
-![Graphbma](../imgs/graph/brainstorming_bma.png)
-
 
 ### Critério de qualidade
 
