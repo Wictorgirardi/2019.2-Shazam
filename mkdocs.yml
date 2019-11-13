@@ -34,7 +34,9 @@ nav:
     - Brainstorming: 'analise/brainstorming.md'
     - Validação: 'analise/email_suporte.md'  
     - Backlog: 'analise/backlog.md'
-    
+  - Pós-Rastreabilidade:
+    - Backward-From:'pos-rastreabilidade/backwardFrom.md'
+    - Forward-From:'pos-rastreabilidade/forwardFrom.md'
 
 theme:
   name: 'material'
