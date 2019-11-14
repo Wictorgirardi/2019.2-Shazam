@@ -101,5 +101,5 @@ Eu, como usuário, gostaria de acompanhar a letra da música pelo aplicativo.
 | 21/10/2019 | 1.5 | Correções no estilo do backlog | Victor Levi |
 | 21/10/2019 | 1.6 | Adicionando novo épico e backlogs | Nathalia Lorena |
 | 21/10/2019 | 1.7 | Adicionando novo backlog e épicos| Débora Vilela|
-| 13/11/2019 | 1.8 | Adicionando rastro e melhorias| Nathalia Lorena|
+| 13/11/2019 | 1.8 | Adicionando rastreabilidade e melhorias| Nathalia Lorena|
 
