@@ -24,6 +24,10 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 ![NFRGeral1.0](../imgs/NFR/NFR-Geral.png)
 
+##### V1.1
+
+![NFRGeral1.1](../imgs/NFR/NFR-Geral11.png)
+
 
 #### NFR de Desempenho
 ##### V1.0
@@ -48,15 +52,27 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 
 ![NFRPortabilidade](../imgs/NFR/NFR-portabilidade.png)
 
+##### V1.1
+
+![NFRPortabilidade](../imgs/NFR/NFR-Portabilidade11.png)
+
 #### NFR de Confiabilidade 
 ##### V1.0
 
-![NFRConfiabilidade](../imgs/NFR/NFR-confiabilidade.png)
+![NFRConfiabilidade1.0](../imgs/NFR/NFR-confiabilidade.png)
+
+##### V1.1
+
+![NFRConfiabilidade1.1](../imgs/NFR/NFR-Confiabilidade11.png)
 
 #### NFR de Segurança 
 ##### V1.0
 
 ![NFRSeguranca1.0](../imgs/NFR/NFR-Seguranca.png)
+
+##### V1.1
+
+![NFRSeguranca1.1](../imgs/NFR/NFR-Seguranca11.png)
 
 ## Controle de Versão
 
@@ -70,3 +86,4 @@ Analisar os impactos das escolhas atuais do Shazam baseadas nos requisitos-não-
 |21/10/2019|1.5|Adição da versão 1.1 do NFR de Usabilidade| Gabriel Tiveron|
 |21/10/2019|1.6|Adição da versão 1.0 do NFR Geral| Gabriel Tiveron|
 |21/10/2019|1.7|Adição do NFR de Segurança| Gabriel Tiveron|
+|14/10/2019|1.8|Adição da versão 1.1 dos NFR geral, portabilidade, segurança e confiabilidae| Gabriel Tiveron|
