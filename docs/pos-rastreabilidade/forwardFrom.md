@@ -33,16 +33,16 @@
 
 |Requisito|Descrição|NFR|US|Épicos|Artefato de desenho|
 |:--:|:----:|:-------:|:---:|:----:|:----:|
-|RNF01 |Disponibilidade de uso em tempo integral|[NFR de Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
-|RNF02 |Acesso para download em Android e IOS|[NFR de Portabilidade](../modelagem/NFR#NFR-de-Portabilidade)||||
-|RNF03 |Necessidade de internet apenas para finalizar buscas|[NFR de Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
-|RNF04 |Curto tempo de busca no banco de dados|[NFR de Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
-|RNF05 |Botão intuitivo e com frases instrutivas|[NFR de Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)||||
-|RNF06 |O aplicativo possuir três telas|[NFR de Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
-|RNF07 |ícones instrutivos na opção  de abrir a mídia musical em um aplicativo reprodutor de músicas|[NFR de Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)|||[Tela de abrir as músicas em outros apps](../imgs/RF07.shazam.android.jpg)|
-|RNF08 |ícones instrutivos na opção  de compartilhar mídia musical|[NFR de Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)|||[Tela de compartilhar mídia com ícones intuitivos](../imgs/RF04.shazam.android.jpg)|
-|RNF09 | Atualização constante do banco de dados |[NFR de Desempenho](../modelagem/NFR#NFR-de-Desempenho)|||| 
-|RNF10 | Portabilidades (Dispositivos móveis, Web App) |[NFR de Portabilidade](../modelagem/NFR#NFR-de-Portabilidade)|||[Tela do Shazam Web](RNF10.shazam.web.png)|
+|RNF01 |Disponibilidade de uso em tempo integral|[Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
+|RNF02 |Acesso para download em Android e IOS|[Portabilidade](../modelagem/NFR#NFR-de-Portabilidade)||||
+|RNF03 |Necessidade de internet apenas para finalizar buscas|[Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
+|RNF04 |Curto tempo de busca no banco de dados|[Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
+|RNF05 |Botão intuitivo e com frases instrutivas|[Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)||||
+|RNF06 |O aplicativo possuir três telas|[ Desempenho](../modelagem/NFR#NFR-de-Desempenho)||||
+|RNF07 |ícones instrutivos na opção  de abrir a mídia musical em um aplicativo reprodutor de músicas|[Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)|||[Tela de abrir as músicas em outros apps](../imgs/RF07.shazam.android.jpg)|
+|RNF08 |ícones instrutivos na opção  de compartilhar mídia musical|[Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)|||[Tela de compartilhar mídia com ícones intuitivos](../imgs/RF04.shazam.android.jpg)|
+|RNF09 | Atualização constante do banco de dados |[Desempenho](../modelagem/NFR#NFR-de-Desempenho)|||| 
+|RNF10 | Portabilidades (Dispositivos móveis, Web App) |[Portabilidade](../modelagem/NFR#NFR-de-Portabilidade)|||[Tela do Shazam Web](RNF10.shazam.web.png)|
 |RNF11 | Ter uma versão mais leve para abranger mais usuários |-||||
 |RNF12 | Fazer conexão com outros streamings de música |-||||
 
