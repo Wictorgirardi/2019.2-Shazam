@@ -24,7 +24,7 @@
 </p>
 #### V1.1
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/imgs/First.jpg">
+  <img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/imgs/First.png">
 </p>
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
