@@ -18,14 +18,16 @@
 <p align="justify">Passo 7: Calcular a prioridade para cada requisito usando: valor % / (custo % * Peso custo + risco % * Peso Risco). O Peso custo e risco aqui utilizados foram de 1.</p>
 <p align="justify">Passo 8: Ordenar a lista em ordem decrescente de prioridade.</p>
 
-
+#### V1.0
 <p align="center">
   <img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/imgs/Firstthingfirst.jpg">
- 
 </p>
-
-
+#### V1.1
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos2-2019/Shazam/master/docs/imgs/First.jpg">
+</p>
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 30/09/2019 | 1.0 | Criação do documento | Débora Vilela |
-| 30/09/2019 | 1.1 | Adicionando imagem do First Thing First |
+| 30/09/2019 | 1.1 | Adicionando imagem do First Thing First | Débora Vilela | 
+| 14/11/2019 | 1.2 | Adição de indexação dos Requisitos | Gabriel Tiveron|
