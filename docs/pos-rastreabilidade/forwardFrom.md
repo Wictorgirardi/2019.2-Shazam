@@ -42,7 +42,7 @@
 |RNF07 |ícones instrutivos na opção  de abrir a mídia musical em um aplicativo reprodutor de músicas|[Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)|||[Tela de abrir as músicas em outros apps](../imgs/RF07.shazam.android.jpg)|
 |RNF08 |ícones instrutivos na opção  de compartilhar mídia musical|[Usabilidade](../modelagem/NFR#NFR-de-Usabilidade)|||[Tela de compartilhar mídia com ícones intuitivos](../imgs/RF04.shazam.android.jpg)|
 |RNF09 | Atualização constante do banco de dados |[Desempenho](../modelagem/NFR#NFR-de-Desempenho)|||| 
-|RNF10 | Portabilidades (Dispositivos móveis, Web App) |[Portabilidade](../modelagem/NFR#NFR-de-Portabilidade)|||[Tela do Shazam Web](RNF10.shazam.web.png)|
+|RNF10 | Portabilidades (Dispositivos móveis, Web App) |[Portabilidade](../modelagem/NFR#NFR-de-Portabilidade)|||[Tela do Shazam Web](../imgs/RNF10.shazam.web.png)|
 |RNF11 | Ter uma versão mais leve para abranger mais usuários |-||||
 |RNF12 | Fazer conexão com outros streamings de música |-||||
 
